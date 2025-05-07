@@ -27,6 +27,6 @@ speech recognition; voiceprint recognition;
 #### Accuracy rate
 the word accuracy rate is not less than 98%
 
-# Licensing Information
+## Licensing Information
 Commercial License
 
