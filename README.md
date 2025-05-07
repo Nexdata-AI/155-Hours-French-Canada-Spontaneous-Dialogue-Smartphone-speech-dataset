@@ -8,23 +8,23 @@ For more details, please refer to the link: https://www.nexdata.ai/datasets/spee
 
 ## Specifications
 
-# Format
+### Format
 16kHz 16bit, uncompressed wav, mono channel;
-# Environment
+#### Environment
 quiet indoor environment, without echo;
-# Recording content
+#### Recording content
 dozens of topics are specified, and the speakers make dialogue under those topics while the recording is performed;
-# Demographics
+#### Demographics
 238 people in total, 36% male and 64% female;
-# Annotation
+#### Annotation
 annotating for the transcription text, speaker identification, gender and noise symbols;
-# Device
+#### Device
 Android mobile phone, iPhone;
-# Language
+#### Language
 French;
-# Application scenarios
+#### Application scenarios
 speech recognition; voiceprint recognition;
-# Accuracy rate
+#### Accuracy rate
 the word accuracy rate is not less than 98%
 
 # Licensing Information
