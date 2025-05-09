@@ -1,0 +1,278 @@
+19.409273019789318	26.2123631092136	O1	Donc le sujet qu'on a choisi de parler euh, cette fois-ci c'est au niveau euh télévision et film.
+26.492155085473247	30.088000113699024	O1	Donc euh hum j'avais une petite idée de ce qu'est-ce que je voulais parler.[N]
+30.21235210314776	31.108722693757358	O1	De mon côté.
+31.30043201082415	33.46104782749584	O1	De donc je vais commencer, puis après tu mets de ton côté.
+33.55949315247608	34.393687748361316	N	[IVS]
+34.4247757457235	39.217581161160076	O1	Euh j'ai écouté euh, c'est tous des séries d'ado mettons sur Prime.[N]
+39.23585030734784	40.33149524453819	N	[IVS]
+40.802996537864615	43.248585663689646	N	[IVS]
+44.02578559774422	46.08277475654196	O1	Oui puis non, c'est comme.
+46.96878268136416	52.186384905317134	O1	C'est plus euh je sais pas c'est, là elle fu- bah on dirait comme le fait que.
+52.502446211832655	54.84539068191793	O1	Ses premiers amours, tout ça t'sais ?[N]
+55.04648066263793	57.4298937937386	O1	Non, mais c'est c'est quoi que j'trouve beau?
+57.9583897488957	64.25889054763137	O1	Puis t'sais quand t'écoutes mettons des séries que là, ils ont trente-cinq ans puis tout ça puis là ta fille est une personne puis tout?
+64.45059986469816	65.85474107889007	O1	Tu es comme ah ah ah!
+66.05302289854065	73.96354906965772	O1	Donc euh t'sais quand tu vois des des premiers amours entre jeunes, puis t'sais c'est peu c'est c'est passionné c'est c'est ça ça c'est moins blasé.
+74.0205217193567	74.56456167319489	O1	Fait que.
+75.09823896124568	76.23295086496536	O1	Ça donne espoir![N]
+76.88612614361591	82.35210501242163	O1	Fait que fait que c'est ça, fait que j'ai écouté euh hum, le Fabricant de larmes.[N]
+83.06194761885813	83.48681691614128	O2	OK.[N]
+83.92204887921184	85.11375544476218	O1	C'est vraiment des films d'ados là.
+85.13966210923066	85.45054208285248	O2	Ouais![N]
+85.47126741442727	90.13964835164835	O1	Euh Fabricant de larmes, j'ai le titre je l'adore, c'est euh un film italien.
+91.27954158826171	94.16423467387207	O1	Qui est inspiré d'un livre, en fait les deux séries euh ben le film puis la.
+94.53341864550349	98.09817567636709	O1	L- la série que je vais parler après, c'est euh c'est européen.
+98.72511695650444	104.30023115012251	O1	Puis euh c'est ça fait que Fabricant de larmes c'est italien, en quoi ça consiste c'est que c'était euh.
+104.55411646191368	109.60591603326833	O1	Une une petit une jeune fille que quand elle avait huit ans, euh elle a eu un accident d'auto avec ses parents.
+109.83389468059102	111.76135051704634	O1	Elle se ramasse dans un orphelinat.
+112.45046779190804	115.5333608636578	O1	Puis là dans un orphelinat, il y a un des euh.[N]
+116.02040615566534	119.68360851150918	O1	Des garçons qui est comme vu comme, l- les nus si j'peux dire fait que.
+119.8027791680642	123.42453086075848	O1	Genre la madame de l'orphelinat elle est pas le fin avec lui, mais pas le fin avec les autres enfants.
+124.00484014485257	124.4815227710727	O2	Ok![N]
+124.64214409077731	129.04109571752613	O1	Fait que les autres enfants les rejettent au bout, puis de ce qu'on comprend c'est qu'il est beau aussi.
+129.43487701744712	133.78719664815267	O1	Puis t'sais en écoutant comme le le film, tu te rends compte que.[N]
+134.02553796126273	136.12915911610378	O1	Est beaucoup dans le hum.[N]
+136.66283640415458	138.5902922406099	O1	Comment j'peux dire ça est beaucoup dans le hum.[N]
+140.08769744688834	142.6524572292684	O1	Ben dans le fond quand elle fait ses abus physiques.
+143.47628915936625	148.3622860781226	O1	Jean il demande à, à son favori de venir comme regarder.
+149.8182406212515	151.93740577477362	O1	Puis elle dit que c'est un monstre, puis tout ça.
+152.74051237329664	157.48511447903263	O1	Mais elle le traite comme un petit prince fait que c'est t'sais c'est vraiment complet, c'est vraiment trop beau.
+157.62132795915932	159.2586291535676	O1	Mais en même temps, puis là.
+159.53323979693354	164.93218867216592	O1	Ce qu'on voit t'sais la petite fille quand ça lui arrive, elle se fait tout le temps tenir la main puis elle pense que c'est son amie qu'elle s'est faite là-bas, puis.
+165.02027133135877	167.87000442289218	O1	Là-bas l'orphelinat, il encroche les enfants pour ressentir des émotions.
+168.31041771885643	170.04616423824496	O1	Fait que c'est ça, mais l- là a.
+170.1238842316504	175.7818997515676	O1	Y a comme un un des gars, qui est qui est fin avec tout le monde ben le le jeune garçon que je parlais qui était le favori.
+176.0202410646777	181.78188324246887	O1	Il p- avec elle il la rejette vraiment beaucoup que on sait pas trop le pourquoi, mais ce qu'on comprend c'est qu'il est en amour avec!
+182.2378405371142	184.90622697736822	O1	Fait que là il la rejette parce que lui, il se voit comme un monstre.
+185.25855761413962	187.49689342421675	O1	Puis il veut il veut comme pas que à.
+187.90103738992514	191.84403172202863	O1	À à vivre ça avec lui, il dit qu'il est pas correct puis qu'il est devil.
+192.12382369828828	195.50723407787248	O1	Fait que c'est ça, fait qu'en gros euh il tombe en amour mais.
+195.6419487331086	199.1859804323974	O1	Dans le fond y a y a une famille d'accueil, qui décide y a une famille qui décide de les prendre.
+199.62121239546795	205.07197459963731	O1	Puis là ben là il essaie de la repousser elle veut pas, elle veut prendre soin de lui blablabla t'sais.
+205.20150792197973	206.2895878296561	O1	Vraiment toxiques là.
+206.57456113880946	208.85952894492988	O1	Mais puis là, ils finissent par coucher ensemble.
+208.92170493965423	213.09267791908042	O1	Tout ça puis là elle a fini par poursuivre dans la cour comme la na- la madame de.
+213.4450085558518	216.61080295390073	O1	D'orphelinat elle trouve le courage, puis tout ça puis.
+216.8595069327982	218.4117999231139	O1	Ça finit qu'y a un enfant en fin t'sais.
+218.4384665507691	221.72995985287346	O1	C- t'sais c'est la fin est quand même pas pire, fait que [OVERLAP/]ça c'est[/OVERLAP] là le film.[N]
+222.2066424790936	226.52269277954326	O1	Mais euh mais ouais c'était quand même très complexe, mais c'était quand même intéressant.
+226.57450610848025	227.24289805176718	O2	C'est un film?
+227.29471138070414	227.61077268721965	O1	Ouais.
+227.7299433437747	228.3050712949751	O2	OK!
+228.86465524749437	230.9423697378669	O2	Mon Dieu t'aurais quasiment pu faire une série avec ça![N]
+231.0874470588904	237.77654782465336	O1	Ah clairement [OVERLAP/]le monde ils[/OVERLAP] comprennent pas et ils ont dit vous auriez dû faire, euh sur Internet parce que moi j'avais passé sur TikTok ils disaient vous t'sais!
+238.18587312325545	241.75581148701272	O1	Il aurait dû se faire une série parce que ça va ét- ça a été comme, [OVERLAP/]pitcher[/OVERLAP] là.[N]
+242.3309394382131	244.05632329181427	O1	Puis là j'ai pitché aussi, mais ça.[N]
+244.08222995628273	245.5640911638801	O2	Ben moi [OVERLAP/]dans[/OVERLAP] le fond euh.[N]
+246.39828575976534	252.30500525858002	O2	C'est sûr que les affaires romantiques à l'eau de rose, c'est comme plus ou moins mon genre moi j'aime beaucoup les drames.[N]
+254.02520777928746	256.4863409037936	O2	Les drames euh bon euh psychologiques.[N]
+256.9630235300137	259.6210473044803	O2	Euh les affaires euh, les histoires d'horreur.
+260.6676765490071	266.7920120293571	O2	Y a une histoire que j'ai écoutée là bon là l- l- lui qui m'a le plus marquée dernièrement que j'ai.
+266.88527602144364	268.9111771828792	O2	Fait c'était hum.
+269.8697237682132	270.8438143522282	O2	Mon petit rêve.
+270.9992543390391	272.03552091777857	O2	Des murs indiens.[N]
+272.05624624935336	274.94224867114264	N	[IVS]
+274.95779266982373	276.11841123801184	O2	Incroyable!
+276.3982032142715	277.8334324258256	O2	Savez sincèrement là?
+278.0095977442113	282.95777065769204	O2	Y a une notion que tu connais probablement bien là, c'est la notion de répétition en psychologie là.[N]
+283.14429864186513	286.86449565953967	O2	Et puis moi sérieusement quand quand j'ai, je m'attendais vraiment pas à ça![N]
+287.23237029499217	291.66240991910314	O2	Euh quand j'ai commencé cette série-là là, je m'attendais à une histoire d'harcèlement.
+291.9318392295754	292.4188845215829	O1	Hum hum.[N]
+292.4396098531577	294.1235430436093	O2	Juste basée sur ça.
+294.4136976856563	298.3515106848661	O2	Mais là elle ça prend une débarque ma fille là, tu plonges vraiment.
+298.5691266664014	300.76083048043523	O2	Au cœur de toute la psychologie.
+300.89703045969145	303.54469156837075	O2	Euh les mythes déviants du cas.
+303.80227288903546	309.6416350602321	O2	Qui a des gros comportements autodestructeurs d'autosabotage, puis c'est là que tu réalises à quel point.
+310.2633950074757	312.66753347015117	O2	C'est fou comment il y a des gens.
+312.8022481253873	317.7037890428248	O2	Qui euh hum qui qui se maintiennent dans des situations.[N]
+317.74523970597437	320.56906613303926	O2	Problématiques ou qui, t'sais c'est tout le temps comme.
+320.77113811589345	322.71931928392354	O2	Il y en a qui sont comme prédisposés.
+322.95247926413987	323.43952455614743	N	[IVS]
+323.45506855482853	326.4446976344917	O2	Se retrouver dans des situations problématiques c'est c'est-à-dire t'sais?
+326.5690496239405	329.4291453812613	O2	C'était sûr qu'il fallait que ça m'arrive, t'sais là [OVERLAP/]quelqu'un[/OVERLAP] là qui.[N]
+329.65194269569025	332.9524517489753	O2	T'sais qui est tout le temps poli dans les visites et qu'à toutes les fois qu'il raconte quelqu'un.[N]
+333.10419572691256	337.5869816549141	O2	Qui se ramassent avec t'sais des situations de violence conjugale, c'est la notion de répétition.[N]
+337.6039417729086	339.3424513262172	N	[IVS]
+339.386872637407	341.94572572606	O2	Notion de répétition qu'on connaît bien en psychologie.
+342.159680301075	345.06122672154544	O2	Puis euh c'est fou parce que en fait.[N]
+345.66744267010796	347.30474386451624	O2	C'est vraiment vrai là que quand.[N]
+347.66225583418134	349.9731303047702	O2	T'es victime de violence une fois.[N]
+350.4757195954588	353.52234333695276	O2	T'as statistiquement plus de chances que ça te réarrive.[N]
+353.55343133431495	359.3409801765746	O2	Fait que dans le fond là c'est ça, l'histoire là c'est que le cas en fait là c'est ça commence par la situation d'harcèlement.[N]
+359.5534148252162	363.372747926351	O2	Là il parle de la situation avec la, la dame en question là.
+363.4008652756729	367.2062435092068	O2	Qui se met à le harceler à venir au bar où est-ce qu'il travaille régulièrement.
+367.5378488144034	372.5015657265652	O2	Euh pour euh pour euh l'entreprendre puis essayer d'avoir une bête avec lui.
+373.5378323053046	377.64144795711275	O2	Puis le gars après ça puis là tu vois, parallèlement sa vie parallèlement à ça.[N]
+377.82279460839214	380.0559490855756	O2	Là, il rencontre une femme transsexuelle.
+380.2424770697487	383.21138081783715	O2	il va lui mentir à propos de sa véritable identité.
+383.3927274691165	386.81758851185026	O2	il va euh essayer de d'éviter là de la voir euh.[N]
+386.94194050129903	389.2942656350375	O2	En public là parce que il a honte.[N]
+389.5481509468286	397.3097876215869	O2	Euh de de ses préférences et puis là il y a vraiment t'sais un gros euh, un une gros euh une grosse dé-détri- detri- de- détresse psychologique.[N]
+397.3305129531617	400.0196247249905	O2	Là dans sa vie, et puis euh hum.
+400.78128066036396	406.7864454841589	O2	Il part par l- la série passe par plein de détours, pour nous montrer qu'est-ce que cette personne-là euh.[N]
+406.8123521486274	407.91079472209117	O2	Vit en grande haine.
+408.09732270626426	410.8641544714985	O2	Outre la situation de harcèlement.
+411.4703704200611	412.02477303968664	O2	Qu'il vit.
+412.8641489684656	416.73978597295104	O2	Fait que mais il explique en fait comme pourquoi que lui, il se maintient dans ça.[N]
+417.06620994525395	419.3149084211185	O2	Puis [OVERLAP/]pourquoi[/OVERLAP] probablement qu'il a été victimisé?[N]
+419.70350838814574	425.01955593707896	O2	Parce que c'est comme s'il y avait, y a il a été prédiposé à de, il y a des gens qui sont prédisposés à être victimes.[N]
+425.72939854351546	426.9314677748532	O2	De violences.[N]
+427.2112597511129	428.5843129679426	O2	De d'agressions.
+428.9988195994384	433.31486989988804	O2	Puis t'as c'est fou là statistiquement t'as plus de chances que ça te réarrive.[N]
+433.7190138655964	437.1015604749338	O2	Quand tu l'as déjà vécu une fois puis que c'est prouvé là, [OVERLAP/]puis t'sais pas[/OVERLAP].[N]
+437.17710438583913	441.5531892008664	O2	Écoute j'te dis là, il t'sais il va jusqu'à r- ah il va il va jusqu'à aller.[N]
+441.73971718503947	445.8433328368476	O2	Au fond d'une histoire d'une agression sexuelle, qu'il a vécue de la part d'un homme.[N]
+446.1490314775757	448.64643393233774	O2	Ça l'a tout bouleversé dans sa sexualité.[N]
+448.93658857438476	454.4806147706406	O2	Euh hum en tout cas moi ça me, j'te dis ça m'a obsédée, j'ai été là pendant.[N]
+455.7811293269586	457.7344918278824	O2	Au moins y a une semaine là.[N]
+457.90547581337444	458.8173904026651	O2	À la réécouter.
+459.26298503152304	463.8847339727009	O2	En boucle [OVERLAP/]là puis[/OVERLAP] j'pensais juste à ça là ça m'obsédait là, pour vrai bon moi j'ai des.[N]
+463.9779979647874	467.12824836415524	O2	Obsessions comme ça des fois làhum j'te dis, ça m'a tellement persécutée.
+467.4287656719897	470.2784987635231	O2	Ça puis euh My Lover Stalker Killer.[N]
+470.6722800634441	471.14378135677055	N	[IVS]
+471.1593253554516	474.915791703382	O2	Fait là c'est un gars qui rencontre une fille sur euh.[N]
+475.87951962160963	482.3717297374121	O2	Sur euh sur m- sur un site de rencontre et puis ça prend une méchante drop là, écoute je t'en reparlerai là.[N]
+482.4339057321365	485.05047884345356	O1	Mais honnêtement t'sais tes histoires sont comme![N]
+485.43389747758704	486.6193859282301	O1	C'est dangereux, c'est.[N]
+486.6460525558854	488.7654945282344	N	[IVS]
+488.95882757873477	490.61402057750394	N	[IVS]
+490.6547458798201	494.78102201781667	O2	Dans les histoires là moi quand j'écoute du cinéma, c'est toujours en lien mettons.
+494.8535606783284	496.2214325622644	O2	Mais t'sais, la série d'horreur.
+496.41314187933125	500.8587255021233	O2	Euh [OVERLAP/]les séries[/OVERLAP]euh de meurtres et mystères, de aussi là t'sais là esprit du crime.[N]
+501.0141654889343	504.80690116712054	O2	Euh de aussi mystères euh [OVERLAP/]toutes les[/OVERLAP] affaires là t'sais justement là qui.[N]
+504.84317049737643	510.5322740146558	O1	[OVERLAP/]C'est ça[/OVERLAP] moi c'est le genre de choses que j'aime aussi, mais vu que au travail je deal avec ça.[N]
+510.97786864351383	513.5167217614253	O1	Des fois j'suis comme, j'ai juste besoin de quoi de léger.[N]
+513.5426284258938	516.3768175187462	N	[IVS]
+516.3871801845336	519.4907985878581	O1	Faut les trilogues psychologiques, mais il faut que j'aille quand même à un.[N]
+520.1384651995703	523.1436382779145	O1	U-u-une certaine mentalité [OVERLAP/]quand[/OVERLAP] que je l'écoute.[N]
+523.169544942383	529.0969897727725	O2	[OVERLAP/]Là t'sais quand[/OVERLAP] tu baignes là-dedans toute la journée là, c'est sûr que ça se peut que t'aies envie, d'écouter quelque chose de plus positif.[N]
+529.2006164306464	530.5736696474762	N	[IVS]
+531.0918029368459	535.1695119241855	O1	Euh au niveau euh puis t'sais, j'trouve Netflix Prime.[N]
+535.2109625873351	539.3767542338676	O1	Il il amène quand même des bonnes séries [OVERLAP/]aussi[/OVERLAP] au niveau des valeurs, [OVERLAP/]des poids[/OVERLAP] tout ça.[N]
+539.6047328811902	541.2557121243725	N	[IVS]
+541.4001332892694	543.2066922172631	N	[IVS]
+543.2333588449184	548.5839827859672	O1	Est aussi qui est hyper open sur euh sur mettons euh les différentes identités sexuelles.[N]
+548.6098894504357	550.1591079856512	N	[IVS]
+550.2420093119504	551.8378598432091	O1	Ouais fait que ça t'sais, je j'ai.
+551.99329983002	557.039918068481	O1	C'est les médias ont tout le temps contrôlé quand même une partie de de comment la [OVERLAP/]société[/OVERLAP] se porte.[N]
+557.4026113710397	561.4077816978676	O1	Des fois il peut faire du positif d'autres fois du négatif, la deuxième série que j'ai euh ben.[N]
+561.6616670096587	564.9932640603059	O1	La deuxième chose que j'ai écoutée qui est une série, c'était Maxon Hall.[N]
+565.454402687845	567.5891118400483	O1	C'est une euh série allemande là.
+567.8429971518393	571.7704474852618	O1	Plus j'voyais ça passer partout sur TikTok fait que là j'dis comme bon, j'vais aller l'écouter.
+572.1383221207143	573.8170739782721	O1	Puis en fait, ça disait que.
+574.0502339584885	576.3662897619711	O1	Il y a des filles qui disaient, t'sais même mon copain il aimait ça.
+576.6616257369119	578.9310495443511	O1	Puis dans le fond c'est l'histoire, c'est léger là.
+579.6408921507877	581.0605773636607	O1	C'est l'histoire d'une fille.[N]
+581.2833746780897	585.7704089640313	O1	Qui a pas beaucoup d'argent, son père il a il a perdu l'usage de ses jambes puis tout ça.[N]
+585.9880249455666	591.6926724615271	O1	Puis elle a travaillé vraiment fort pour avoir une bourse pour aller dans une des méco- euh des meilleures écoles d'Angleterre.
+592.0812724285544	594.8999175227257	O1	Parce qu'elle veut aller à l'Université de Oxford.
+595.3921441476269	600.1330637453597	O1	Fait que dans le fond euh là elle travaille vraiment fort, elle réussit à avoir sa bos- euh à avoir bourse.
+600.4076743887256	601.8169969358113	O1	Mais le problème, c'est que.
+602.1486022410079	604.0449700801009	O1	Qu'elle commence à l'école tout ça.
+604.215954065593	608.1848550621651	O1	T'as un euh c'est une école de riches de d'-d'enfants riches.
+608.2107617266335	608.5060977015742	O2	Hum hum?[N]
+608.594180360767	610.4335535380295	O1	Donc euh elle capote un peu.
+610.8428788366316	615.1900171344433	O1	Parce que y en a qui sont arrogants puis y a un gars en particulier qui est vraiment arrogant, puis elle l'aime pas.
+615.4231771146598	617.8065902457605	O1	Mais là ça va passer de ennemies to lovers!
+617.8791289062722	620.226272707117	O2	Oh mon Dieu, que c'est quétaine![N]
+620.2521793715855	620.7599499951679	O1	Oui.[N]
+620.8998459832976	621.5164245976475	O2	Ah!
+621.7392219120766	625.7806615691603	O1	Oui fait que là t'sais ils s'entendent ils se quand ben c'est léger, ça fait![N]
+625.8169308994162	629.2936052710869	N	[IVS]
+629.3587519138514	633.8975995287301	O1	Elle te le ramasse mais solide là, solide là genre.[N]
+634.0241622030323	637.3091272576363	O1	Elle te le détruit ben, en même temps j'pense cette partie-là t'aurait aimée?
+637.3764845852544	641.5474575646806	O1	Elle te le détruit à un moment donné parce qu'il t'a regardé, [OVERLAP/]puis[/OVERLAP] elle met tout ça dans la face.[N]
+641.9930521935385	645.1277585942253	O1	Puis c'est d'une beauté de [OVERLAP/]magnif-[/OVERLAP], écoute.[N]
+645.1951159218434	651.8583100231377	O1	Mais c'est ça t'sais c'est comme, puis t'sais ça a fait du bien j'ai ri euh j'ai pleuré un petit peu, fait que.[N]
+651.9116432784481	655.1343285312677	O1	C'était une belle série que qui était agréable, puis [OVERLAP/]tout ça[/OVERLAP]![N]
+655.3453470605959	656.9204722602799	O2	As-tu écouté Parfait?[N]
+657.0810935799844	658.1329041574049	O1	Oh oui clairement.
+658.2417121481726	659.4955947084472	O1	Oui, mais oui.[N]
+659.5111387071285	660.1588053188405	O2	Oui, bien sûr.[N]
+660.7753839331905	661.8893705053354	N	[IVS]
+661.8945518382291	663.231335724803	O2	Vraiment euh moi j'ai trouvé ça.[N]
+663.2520610563777	664.4748556192902	N	[IVS]
+664.5059436166523	665.1639728941518	N	[IVS]
+665.1950608915141	666.8233822256822	N	[IVS]
+667.4748473647409	670.5162897733411	O1	Oui, mais t'aimes vraiment les séries de Stalkers![N]
+670.5318337720221	671.5732816836552	O2	Oh ouais, absolument.[N]
+671.5991883481237	672.3318631639285	N	[IVS]
+672.3318631639285	676.3269450666215	O2	Écoute-moi les-les, les séries qui parlent de du monde qui ont des problèmes entre les deux oreilles là.[N]
+676.3670313546909	678.0136956124005	N	[IVS]
+678.1483931257568	682.6665154090607	O1	Mais euh Parfait oui, du principe que dans Parfait euh.
+682.8944940563833	688.11727761323	O1	J'aime beaucoup les séries que t'essaies de rentrer là dans la psychique des gens, [OVERLAP/]puis[/OVERLAP] tout ça puis dans Parfait Joe.[N]
+688.3867069237023	693.3643787034649	O1	Ce qui est intéressant j'ai vraiment adoré l'oeuvre là parce que c'était son équivalent féminin t'sais bien dans la saison deux-trois.[N]
+693.368800073172	693.8011997976158	N	[IVS]
+694.1068984383439	695.2157036775951	N	[IVS]
+695.2260663433824	697.3296874982235	O2	Pas aimé cette cette saison-là là.[N]
+697.6457488047389	700.9255325264493	O1	Mais moi c'est c'est plus le fait qu'il était comme [OVERLAP/]pareil[/OVERLAP] à lui.[N]
+701.0809725132601	704.1467324552486	O2	Love tu parles de principe normal là excuse-moi![N]
+704.2511536786627	706.8892466870946	O1	Et c'est à ce moment-là, du principe que love.[N]
+707.3089346514842	713.1534781555744	O1	T'sais Joe il y avait comme son côté de ah je suis parfait je fais ça parce que je l'aime puis tout ça![N]
+713.4643581291963	717.8995790862009	O1	Puis il était obsessif puis Love est obsessive avec lui, mais Love ça n'a pas t'sais.
+718.0446564072245	722.4125200366111	O1	Et pour Joe ça passe pas s'il a fait pareil, tu [OVERLAP/]comprends[/OVERLAP] c'est ça qui.[N]
+722.4280640352922	728.7935384650256	O1	Qui qui qui qui m'intéressait parce que j'étais comme ah toi t'as le droit de le faire, mais l'autre quand il le fait ça marche [OVERLAP/]pas[/OVERLAP] puis.
+728.9394449539426	730.5783006770777	O1	Sinon t'sais j'trouve que Joe il est top.
+730.5886633428652	731.650836586073	N	[IVS]
+731.6767432505416	733.0394338015839	O2	C'est d'aller voir.
+733.2415057844381	737.4746547585886	O2	Euh de c'est de voir aussi un un un un personnage qui est aussi.
+737.8736173914033	738.4642893412847	O1	Droit?
+738.5057400044343	740.5264598329761	O2	Non, qui est aussi fucked up que lui.[N]
+740.562729163232	743.7954323468927	O2	Ben, il est fucked up, mais en façade il a l'air [OVERLAP/]vraiment[/OVERLAP].[N]
+743.9616835414973	746.7336966396254	O1	[OVERLAP/]Ouais ouais[/OVERLAP] hygiène irréprochable euh! [N]
+746.7958726343497	750.5212509849179	N	[IVS]
+750.55233898228	751.8839415359602	O2	Puis il communique bien.
+752.1067388503892	753.5523307277307	N	[IVS]
+753.5782373921991	757.4435117308972	O2	Première série quand il dit à à à à Gwendovir euh.
+757.6300397150703	759.894282189616	O2	À Guéndovire euh, qu'est-ce que t'attends de moi?
+759.9979088474898	761.5937593787486	N	[IVS]
+761.8528260234334	764.2621458190025	N	[IVS]
+764.2776898176836	765.4797590490214	O2	C'est le même un débat fait que là c'est.[N]
+765.5049403526565	770.3139426388408	O1	[OVERLAP/]Mais c'est parce que[/OVERLAP] il devient tellement obsessif, il veut tellement faire son bonheur que dès le moment qu'elle a une.[N]
+770.3553933019903	774.6068839110951	O1	Petite contrariété il est comme Parfait j'vais éliminer le problème, mais c'est vraiment.[N]
+774.6357612236042	776.5056354468088	N	[IVS]
+776.536723444171	779.479720527791	O1	Temps en même temps t'sais il normalise beaucoup ses gestes.[N]
+779.5211711909405	779.8838644934992	O2	Ouais.[N]
+780.0496671460976	783.4848908546188	O1	Qui est beaucoup dans le ah mais je le fais parce que je l'aime, puis tout ça puis.
+783.635149508536	789.8320236493977	O1	Les gens qui ont des t'sais des déviances ou qui ont, ils normalisent beaucoup t'sais c'est [OVERLAP/]genre[/OVERLAP] des gens comme ça puis.[N]
+790.1791729532755	794.5729432471306	O1	T'sais les les gens justement ils vont être beaucoup dans, ouais mais j'fais ça puis t'sais c'est.[N]
+794.6921139036856	799.0496148672848	O1	C'est correct j'ai pas fait dans une mauvaise intention tout ça mais, en même temps tu le sais là.
+799.1739668567336	801.4665342947214	O1	Dans ta tête que c'est pas correct, c'est juste que tu te dis ah oui.[N]
+801.5020782641437	804.863070374013	O2	Mais moi t'sais ça passe pour [OVERLAP/]X raison,[/OVERLAP] fait que t'sais on est on rentre dans.[N]
+805.0651423568672	807.6091768076725	O2	Dans dans dans la [OVERLAP/]sociopathie [/OVERLAP]puis tout ça mais.[N]
+807.769798127377	812.697245709283	O1	Mais oui c'est une [OVERLAP/]excellente série[/OVERLAP] puis là la prochaine saison j'avais hâte de voir la dernière, j'ai pas tant aimé.[N]
+812.7231523737515	813.1635656697157	O2	Hum hum.[N]
+813.1739283355032	815.2982748219189	O2	Moi c'est vraiment celle-là avec avec Love.
+815.3241814863874	817.0236586755201	N	[IVS]
+817.0340213413075	818.9459331790817	O2	Il est rendu où, en Europe là?
+819.2976076597264	820.3272050043779	O1	Ah celle-là j'ai pas aimé.[N]
+820.3494769682343	822.1694743057028	N	[IVS]
+822.2464422323668	823.6143141163027	N	[IVS]
+823.8215674320506	824.9148286726207	O2	Mais t'sais euh f-.[N]
+825.0754499923254	827.2619724734656	O2	C'est quoi que j'allais dire moi je me rappelle plus là!
+827.8215564259848	834.3552172049368	O2	En gros euh les séries quand j'ai un un personnage principal qui est aussi le narrateur de [OVERLAP/]l'histoire[/OVERLAP] là.[N]
+834.521019857535	837.5327160290315	O2	Quand tu entends qu'est-ce qu'il se dit dans sa tête, comme dans [OVERLAP/]Dexter [/OVERLAP].[N]
+837.6161183749872	841.7187686230909	O2	Ça là je trouve ça drôle là [OVERLAP/]ça me [/OVERLAP]fait marrer, là.[N]
+842.1583045428447	846.4691735104007	O1	Mais c'est parce que tu tu tu t'es comme, y a raison dans un ça genre.[N]
+846.5002615077628	849.2360052756349	N	[IVS]
+849.2619119401033	852.0035624017027	O1	T'entends son processus de pensée puis t'es comme ah ouais mais.
+852.0391063711251	853.785215556301	N	[IVS]
+853.8111222207693	856.2618926794881	O2	Comme ça [OVERLAP/]oui[/OVERLAP] mais en même temps, mais c'est pas correct t'sais.[N]
+856.4173326662991	858.349969835648	O1	C'est ça puis, t'sais ses gestes?[N]
+858.5986738145455	863.9458093608409	O1	C'est comme c'est ça t'sais c'est pas correct ça fait juste pas [OVERLAP/]de sens,[/OVERLAP] qu'ils fassent ça là t'sais c'est c'est là le problème.[N]
+864.2774146660377	866.391398486666	O1	Puis t'sais ton rationnel te ramène mais.
+866.5779264708391	869.4483848939473	O1	Dis ben t'sais moi je partirais sans même lancer euh.[N]
+869.4742915584158	872.702261951189	N	[IVS]
+872.7178059498701	874.5727231258137	N	[IVS]
+875.1530324099077	878.2359254816575	O2	Genre j'peux comprendre le le le le chemin qui s'est fait.[N]
+878.5312614565983	879.5986160326999	O1	Oui, pour [OVERLAP/]qu'il[/OVERLAP] y en arrive.[N]
+879.6245226971683	881.0286639113602	N	[IVS]
+881.0545705758288	882.6452397741938	O2	t'sais des fois là on est.[N]
+883.0131144096463	886.3395301273998	O2	On on on est euh comment est-ce qu'on appelle ça?[N]
+886.5985967720846	887.2669887153716	O2	On.[N]
+888.4172446177723	890.0700898108616	O2	On euh.[N]
+890.2099857989915	891.8628309920808	O2	Overthinking comment qu'on appelle ça?[N]
+891.8783749907619	892.7799269142653	N	[IVS]
+892.8213775774149	894.256606788969	O2	Ben c'est ça fait que t'sais?[N]
+894.3291454494807	898.1477877921354	O2	Lui là ce qu'il met là c'est [OVERLAP/]son,[/OVERLAP] c'est son overthinking.[N]
+898.1633317908165	901.987155466365	N	[IVS]
